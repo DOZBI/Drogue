@@ -1,6 +1,6 @@
 ---
 title: 'À propos de nous '
-date: 2019-10-29T13:49:23.000+06:00
+date: 2022-03-22T21:45:00+00:00
 image: images/author.jpg
 description: ''
 type: ''
